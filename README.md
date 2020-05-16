@@ -1,5 +1,4 @@
 # Task5_Tatarov_Dmitriy
 
-all parts are done, what a project!
+semioptimal i think 
 
-demo at: http://134.209.245.201:31340/
